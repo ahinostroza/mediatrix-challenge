@@ -1,0 +1,5 @@
+[
+  { "Id": "01c6c92f-479a-4b27-9363-d67c8e151e6e", "Name": "Ministerio de Educación", "IsActive": true },
+  { "Id": "e75e423e-605e-4520-9e87-1ac4965b850b", "Name": "Ministerio de Salud Pública", "IsActive": true },
+  { "Id": "1304519e-6c37-463e-8dcc-7d533b91b97b", "Name": "Ministerio de Trabajo", "IsActive": true }
+]
